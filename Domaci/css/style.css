@@ -1,0 +1,64 @@
+body {
+	 color: #000;
+     font-family: 'Playfair Display';
+	 line-height: 22x;
+	 margin:40px;
+	 background:#fff; 
+	}
+
+   a {
+	padding: 4px 8px 4px 8px;
+    color: #fff;
+    font-size: 17px;
+    font-family: sans-serif;
+    font-weight: 400;
+    background: #f2c752;
+    text-decoration: none;
+    }
+
+    a:hover {
+    background:black;
+    color: red;
+    }
+
+    .datum {
+    color: #bfbfbf;
+    } 
+p {
+	margin-top: 24px;
+	text-align: justify;
+  }
+h1,#slovo {
+	font-family: 'Shadows Into Light', cursive;
+	margin-left: 40px;
+	color:red; 
+	font-size: 60px
+	}
+.prvi-paragraf {
+	border-bottom: 1px dotted #bababa;
+    padding-bottom:20px;	
+    }
+.pitanje {
+	font-weight: bold;
+	}
+.logo {
+	
+    margin: 0 0 90px 0;
+    
+    }
+  .uvuceno {
+    	margin: 0 0 220px 0;
+    }
+
+#slika {
+ 	display: block;
+    margin: auto;
+    width: 95%;
+    margin-top: 40px;
+    
+     }
+
+
+
+
+
